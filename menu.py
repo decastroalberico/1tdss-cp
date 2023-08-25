@@ -8,7 +8,7 @@ while True:
     print("4. Search user by email")
     print("5. Exit")
     
-    choice = input("Enter your choice: ")
+    choice = "5"
 
     if choice == "1":
         name = input("Enter name: ")
